@@ -13,5 +13,8 @@ int32_t main()
 {
 optimize();
 cout<<"hello"<<endl;
+int a=5;
+int b=8;
+cout<<a+b<<endl;
 return 0;
 }
